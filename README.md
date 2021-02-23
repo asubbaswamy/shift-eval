@@ -1,2 +1,5 @@
 # shift-eval
-Evaluating the robustness of a model to distribution shifts.
+
+Implementation of the method detailed in the AISTATS 2021 paper "Evaluating Robustness to Dataset Shift."
+
+Code coming soon.
